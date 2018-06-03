@@ -1,2 +1,2 @@
 # project
-test for git training
+This is test for git training
